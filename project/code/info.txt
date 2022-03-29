@@ -1,0 +1,5 @@
+<iframe src="https://webchat.botframework.com/embed/azure-qna?s=YOUR_SECRET_HERE" style="height: 400px; max-height: 400px;">
+</iframe>
+
+KEY 1 = 926d667a72634483b3c1999e26b6dd7a
+kEY 2 = a89615e2764a4275a1c6f91d04dbf347
